@@ -33,10 +33,10 @@ body{
 }
 .meme-toptext{
   overflow-wrap: break-word;
-  /* max-width: 400px; */
   position: relative;
   top: -500px;
-  /* left: 150px; */
+  font-family: 'Maximum Impact', sans-serif;
+                                                
 }
 .image-and-text{
   text-align: center;
@@ -46,6 +46,7 @@ body{
   bottom: 120px;
   /* max-width: 300px; */
   word-wrap: break-word;
+  font-family: 'Maximum Impact', sans-serif;
 
 
   /* left: 150px; */
